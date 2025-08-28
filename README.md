@@ -19,4 +19,7 @@
 - **Backend (Storage):** Appwrite Buckets  
 - **Deployment:**: Vercel 
 
+
+Link to deployed version :file-hero-ruby.vercel.app
+
 ---
